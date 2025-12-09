@@ -3,7 +3,7 @@
 # 🌺 Tourism vs. Water Quality on Oʻahu  
 ### Analyzing how visitor fluctuations influence coastal water quality in O‘ahu
 
-<img src="DS495_poster.pdf" width="600" alt="Dashboard Preview">
+<img src="images/DS495_poster.png" width="600" alt="Dashboard Preview">
 
 </div>
 
