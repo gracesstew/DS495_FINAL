@@ -1,0 +1,242 @@
+sample id,data entry author,state,lab id,lab name,collection date,collection time (Pacific/Honolulu),stored collectionTime,tested by,site id,site name,latitude,longitude,water temperature (f),air temperature (f),current weather,recent precipitation,tide,wave height,wind speed (mph),wind direction,Enterococcus modifier,Enterococcus (mpn/100mL),Ecoli modifier,Ecoli (mpn/100mL),Total Coliform modifier,Total Coliform (mpn/100mL),comments,pH,Salinity (PSU),Turbidity (NTU),Ammonia/NH3 (ppm),Nitrates/NO3 (mg/L),Nitrites/NO2 (mg/L),Nitrogen(NO3+NO2) (mg/L),Phosphate (mg/L),Dissolved Oxygen (mg/L),publication time
+e9043475-0c58-4da1-a77f-a2d72abcd181,717504ff-6cc2-4106-a2da-7f3d3ed6a4c5,Hawaii,44,Oʻahu,6/15/2025,9:15:00 AM,2025-06-15T19:15:00.000Z,Greg Young,858,South Oʻahu: Magic Island Bowls,21.282953,-157.845657,78,75,Partly_Cloudy,TRUE,outgoing,1-2 ft,15,NE,<,10,,,,,,,,,,,,,,,2025-06-17T00:53:26.260Z
+b4294acf-e63a-4341-be0e-c41589f219c9,624e7b16-f050-4380-8f6f-d412e376796a,Hawaii,44,Oʻahu,6/1/2025,9:15:00 AM,2025-06-01T19:15:00.000Z,Greg young,858,South Oʻahu: Magic Island Bowls,21.282953,-157.845657,78,75,Partly_Cloudy,FALSE,incoming,1-2 ft,5,NE,<,10,,,,,"
+",,,,,,,,,,2025-06-03T02:34:25.026Z
+8a86507b-8aee-445f-beb7-6a9016bf50fc,624e7b16-f050-4380-8f6f-d412e376796a,Hawaii,44,Oʻahu,5/18/2025,9:25:00 AM,2025-05-18T19:25:00.000Z,Robert Quantero,858,South Oʻahu: Magic Island Bowls,21.282953,-157.845657,77.7,75,Sunny,FALSE,outgoing,<1 ft,10,E,=,41,,,,,,,,,,,,,,,2025-05-20T01:01:42.159Z
+56a9473d-bd53-4638-bc47-51db4490340e,624e7b16-f050-4380-8f6f-d412e376796a,Hawaii,44,Oʻahu,5/4/2025,9:15:00 AM,2025-05-04T19:15:00.000Z,Greg Young,858,South Oʻahu: Magic Island Bowls,21.282953,-157.845657,78,77,Partly_Cloudy,FALSE,incoming,1-2 ft,10,NE,=,63,,,,,,,,,,,,,,,2025-05-06T02:23:49.602Z
+3f4abbbf-1826-4aef-80f2-e53aba01bac0,624e7b16-f050-4380-8f6f-d412e376796a,Hawaii,44,Oʻahu,4/20/2025,9:10:00 AM,2025-04-20T19:10:00.000Z,Greg Young,858,South Oʻahu: Magic Island Bowls,21.282953,-157.845657,75,78,Partly_Cloudy,TRUE,incoming,1-2 ft,5,NE,=,30,,,,,,,,,,,,,,,2025-04-22T02:03:43.975Z
+4920a76f-c9e0-45c4-8085-24636874cf2f,624e7b16-f050-4380-8f6f-d412e376796a,Hawaii,44,Oʻahu,4/6/2025,9:15:00 AM,2025-04-06T19:15:00.000Z,Greg Young,858,South Oʻahu: Magic Island Bowls,21.282953,-157.845657,77,75,Partly_Cloudy,TRUE,incoming,1-2 ft,15,NE,=,10,,,,,"
+
+",,,,,,,,,,2025-04-08T02:36:38.582Z
+5f6ef05d-9d23-4687-ac14-47255af3f581,624e7b16-f050-4380-8f6f-d412e376796a,Hawaii,44,Oʻahu,3/23/2025,9:15:00 AM,2025-03-23T19:15:00.000Z,Greg Young,858,South Oʻahu: Magic Island Bowls,21.282953,-157.845657,76,75,Sunny,FALSE,incoming,1-2 ft,10,NE,<,10,,,,,,,,,,,,,,,2025-03-25T05:43:18.175Z
+9ffef930-8284-4e11-8712-40679975d93e,624e7b16-f050-4380-8f6f-d412e376796a,Hawaii,44,Oʻahu,3/9/2025,9:15:00 AM,2025-03-09T19:15:00.000Z,Greg Young,858,South Oʻahu: Magic Island Bowls,21.282953,-157.845657,75,73,Overcast,TRUE,incoming,,10,NE,=,10,,,,,,,,,,,,,,,2025-03-11T02:04:45.284Z
+5614ec84-8554-4b69-aa0c-d6b544c68963,624e7b16-f050-4380-8f6f-d412e376796a,Hawaii,44,Oʻahu,2/23/2025,9:55:00 AM,2025-02-23T19:55:00.000Z,Sherine,858,South Oʻahu: Magic Island Bowls,21.282953,-157.845657,79,74,Partly_Cloudy,TRUE,incoming,1-2 ft,9,NE,<,10,,,,,,,,,,,,,,,2025-02-25T03:23:08.678Z
+d7fbadbc-30f4-4a16-a828-6ceec3924a16,624e7b16-f050-4380-8f6f-d412e376796a,Hawaii,44,Oʻahu,2/9/2025,9:51:00 AM,2025-02-09T19:51:00.000Z,Sherine,858,South Oʻahu: Magic Island Bowls,21.282953,-157.845657,79,73,Partly_Cloudy,TRUE,incoming,2-4 ft,12,E,=,10,,,,,"water is clear, no trash floating on top",,,,,,,,,,2025-02-11T02:48:22.084Z
+4aedd22b-0109-4db9-9499-9e55ece51f0c,624e7b16-f050-4380-8f6f-d412e376796a,Hawaii,44,Oʻahu,1/26/2025,9:15:00 AM,2025-01-26T19:15:00.000Z,Greg Young,858,South Oʻahu: Magic Island Bowls,21.282953,-157.845657,77,75,Partly_Cloudy,TRUE,outgoing,<1 ft,10,NE,<,10,,,,,,,,,,,,,,,2025-01-28T05:56:40.358Z
+176cb0d5-bf75-48a1-b7ac-a309647e450c,624e7b16-f050-4380-8f6f-d412e376796a,Hawaii,44,Oʻahu,1/12/2025,9:15:00 AM,2025-01-12T19:15:00.000Z,Greg Young,858,South Oʻahu: Magic Island Bowls,21.282953,-157.845657,77,73,Partly_Cloudy,TRUE,outgoing,1-2 ft,10,NE,=,73,,,,,,,,,,,,,,,2025-01-14T08:25:31.656Z
+f67ae0a7-22ee-44da-be61-c7d1117f4ce4,624e7b16-f050-4380-8f6f-d412e376796a,Hawaii,44,Oʻahu,12/29/2024,9:15:00 AM,2024-12-29T19:15:00.000Z,Greg Young,858,South Oʻahu: Magic Island Bowls,21.282953,-157.845657,78,73,Partly_Cloudy,TRUE,outgoing,1-2 ft,10,NE,=,10,,,,,,,,,,,,,,,2024-12-31T09:10:28.434Z
+96ffb6d4-51fe-4db6-bd6c-6d0b7193f681,624e7b16-f050-4380-8f6f-d412e376796a,Hawaii,44,Oʻahu,12/1/2024,10:25:00 AM,2024-12-01T20:25:00.000Z,Sherine,858,South Oʻahu: Magic Island Bowls,21.282953,-157.845657,79,75,Partly_Cloudy,FALSE,outgoing,2-4 ft,7,SE,=,10,,,,,,,,,,,,,,,2024-12-03T02:50:56.310Z
+60064725-c89c-4d33-8115-c91cc4c76ebb,624e7b16-f050-4380-8f6f-d412e376796a,Hawaii,44,Oʻahu,11/16/2024,5:30:00 PM,2024-11-17T03:30:00.000Z,Greg Young,858,South Oʻahu: Magic Island Bowls,21.282953,-157.845657,78,75,Overcast,TRUE,outgoing,1-2 ft,25,NE,=,327,,,,,Note: sample was collected 11/16/24 5:30 pm,,,,,,,,,,2024-11-19T06:22:55.697Z
+16dd9c0a-daf7-4f26-aafe-df0c7d8a5c5f,624e7b16-f050-4380-8f6f-d412e376796a,Hawaii,44,Oʻahu,11/3/2024,9:15:00 AM,2024-11-03T19:15:00.000Z,Greg Young,858,South Oʻahu: Magic Island Bowls,21.282953,-157.845657,80,78,Partly_Cloudy,FALSE,outgoing,1-2 ft,10,NE,=,3609,,,,,"
+",,,,,,,,,,2024-11-05T07:21:16.820Z
+2534b017-b1eb-49fd-bf71-9714cdfa0481,717504ff-6cc2-4106-a2da-7f3d3ed6a4c5,Hawaii,44,Oʻahu,10/20/2024,9:15:00 AM,2024-10-20T19:15:00.000Z,Greg Young,858,South Oʻahu: Magic Island Bowls,21.282953,-157.845657,80,77,Partly_Cloudy,FALSE,outgoing,1-2 ft,15,NE,=,61,,,,,,,,,,,,,,,2024-10-22T22:48:03.851Z
+6a272819-3059-4275-8f64-487f73a9de76,717504ff-6cc2-4106-a2da-7f3d3ed6a4c5,Hawaii,44,Oʻahu,10/6/2024,9:15:00 AM,2024-10-06T19:15:00.000Z,Greg Young,858,South Oʻahu: Magic Island Bowls,21.282953,-157.845657,80,77,Partly_Cloudy,TRUE,outgoing,1-2 ft,10,NE,=,10,,,,,,,,,,,,,,,2024-10-08T00:12:57.271Z
+fca96c94-5029-4031-bdf1-f170cc05fa7b,624e7b16-f050-4380-8f6f-d412e376796a,Hawaii,44,Oʻahu,9/22/2024,10:19:00 AM,2024-09-22T20:19:00.000Z,Sherine,858,South Oʻahu: Magic Island Bowls,21.282953,-157.845657,79,76,Partly_Cloudy,FALSE,outgoing,2-4 ft,11,E,=,31,,,,,"clear water, sandy bottom",,,,,,,,,,2024-09-24T05:43:45.378Z
+9604c102-c96b-4e12-8cf6-bf43037fc425,624e7b16-f050-4380-8f6f-d412e376796a,Hawaii,44,Oʻahu,9/8/2024,9:15:00 AM,2024-09-08T19:15:00.000Z,Greg Young,858,South Oʻahu: Magic Island Bowls,21.282953,-157.845657,80,79,Partly_Cloudy,FALSE,outgoing,1-2 ft,10,NE,=,10,,,,,,,,,,,,,,,2024-09-10T08:15:29.976Z
+2c4f9ba8-45b2-4ca7-8529-84c5a5c4cf87,717504ff-6cc2-4106-a2da-7f3d3ed6a4c5,Hawaii,44,Oʻahu,8/25/2024,9:15:00 AM,2024-08-25T19:15:00.000Z,Greg Young,858,South Oʻahu: Magic Island Bowls,21.282953,-157.845657,79,75,Heavy_Rain,TRUE,incoming,2-4 ft,30,NE,=,31,,,,,Hurricane Hone is blowing through,,,,,,,,,,2024-08-27T20:26:11.547Z
+fce37788-6f53-44ff-a95e-3ce7d5f66043,717504ff-6cc2-4106-a2da-7f3d3ed6a4c5,Hawaii,44,Oʻahu,8/11/2024,9:15:00 AM,2024-08-11T19:15:00.000Z,Gwen Young,858,South Oʻahu: Magic Island Bowls,21.282953,-157.845657,79,78,Partly_Cloudy,FALSE,incoming,1-2 ft,15,NE,=,2247,,,,,Sample site smelled of human feces.,,,,,,,,,,2024-08-13T03:19:13.981Z
+0f97b961-090a-4e0d-af0e-20fefa80dcee,624e7b16-f050-4380-8f6f-d412e376796a,Hawaii,44,Oʻahu,7/28/2024,10:11:00 AM,2024-07-28T20:11:00.000Z,Sherine,858,South Oʻahu: Magic Island Bowls,21.282953,-157.845657,77,76,Partly_Cloudy,TRUE,incoming,1-2 ft,17,E,<,10,,,,,,,,,,,,,,,2024-07-30T04:54:43.766Z
+b54c4642-4e30-4789-8b35-fe1705b6e3a6,624e7b16-f050-4380-8f6f-d412e376796a,Hawaii,44,Oʻahu,7/14/2024,9:15:00 AM,2024-07-14T19:15:00.000Z,Greg Young,858,South Oʻahu: Magic Island Bowls,21.282953,-157.845657,78,77,Partly_Cloudy,TRUE,incoming,,15,NE,=,1510,,,,,,,,,,,,,,,2024-07-16T08:45:04.108Z
+d74d5cfd-40f8-48db-91bf-d55c37184dce,624e7b16-f050-4380-8f6f-d412e376796a,Hawaii,44,Oʻahu,6/30/2024,9:15:00 AM,2024-06-30T19:15:00.000Z,Greg Young,858,South Oʻahu: Magic Island Bowls,21.282953,-157.845657,79,76,,FALSE,incoming,1-2 ft,5,NE,<,10,,,,,,,,,,,,,,,2024-07-02T08:50:05.515Z
+da89c08f-bfac-4049-b30c-de71e4490bb4,717504ff-6cc2-4106-a2da-7f3d3ed6a4c5,Hawaii,44,Oʻahu,6/16/2024,9:15:00 AM,2024-06-16T19:15:00.000Z,Greg Young,858,South Oʻahu: Magic Island Bowls,21.282953,-157.845657,78,75,,FALSE,incoming,1-2 ft,15,NE,=,10,,,,,,,,,,,,,,,2024-06-18T03:47:19.910Z
+a17a393d-875a-48a1-8579-7865e08b47cd,624e7b16-f050-4380-8f6f-d412e376796a,Hawaii,44,Oʻahu,6/2/2024,8:35:00 AM,2024-06-02T18:35:00.000Z,Dylan Whitmore,858,South Oʻahu: Magic Island Bowls,21.282953,-157.845657,79,77,Partly_Cloudy,TRUE,incoming,1-2 ft,15,NE,<,10,,,,,,,,,,,,,,,2024-06-04T08:54:05.335Z
+d0b85427-2b53-4210-ae11-14e3dd9b45b2,717504ff-6cc2-4106-a2da-7f3d3ed6a4c5,Hawaii,44,Oʻahu,5/19/2024,9:15:00 AM,2024-05-19T19:15:00.000Z,Greg Young,858,South Oʻahu: Magic Island Bowls,21.282953,-157.845657,77,75,Light_Rain,TRUE,incoming,2-4 ft,10,NE,=,1624,,,,,Brown water.  Lots of debris.,,,,,,,,,,2024-05-21T03:47:50.908Z
+f60a86c1-87ae-48f2-bcbb-67f3ec6463cd,717504ff-6cc2-4106-a2da-7f3d3ed6a4c5,Hawaii,44,Oʻahu,5/5/2024,9:15:00 AM,2024-05-05T19:15:00.000Z,Greg Young,858,South Oʻahu: Magic Island Bowls,21.282953,-157.845657,76,73,Partly_Cloudy,TRUE,incoming,1-2 ft,25,NE,=,20,,,,,,,,,,,,,,,2024-05-07T03:53:06.567Z
+8be6910e-2171-48fd-a40d-662c641c7d45,624e7b16-f050-4380-8f6f-d412e376796a,Hawaii,44,Oʻahu,4/21/2024,9:15:00 AM,2024-04-21T19:15:00.000Z,Greg Young,858,South Oʻahu: Magic Island Bowls,21.282953,-157.845657,76,73,Partly_Cloudy,TRUE,incoming,1-2 ft,10,NE,<,10,,,,,,,,,,,,,,,2024-04-23T08:38:49.204Z
+aacc6387-0b5a-4ab5-935b-b6251fd98287,624e7b16-f050-4380-8f6f-d412e376796a,Hawaii,44,Oʻahu,3/24/2024,9:15:00 AM,2024-03-24T19:15:00.000Z,Greg Young,858,South Oʻahu: Magic Island Bowls,21.282953,-157.845657,75,72,Partly_Cloudy,TRUE,outgoing,1-2 ft,15,NE,=,10,,,,,,,,,,,,,,,2024-03-26T08:29:19.175Z
+606490ba-dcca-4eb4-b405-65089b6d8748,624e7b16-f050-4380-8f6f-d412e376796a,Hawaii,44,Oʻahu,3/10/2024,10:15:00 AM,2024-03-10T20:15:00.000Z,Greg Young,858,South Oʻahu: Magic Island Bowls,21.282953,-157.845657,75,72,Partly_Cloudy,TRUE,outgoing,1-2 ft,20,NE,=,51,,,,,,,,,,,,,,,2024-03-12T10:00:53.323Z
+4f70142e-da6a-4b52-9c81-3a2089ef936e,624e7b16-f050-4380-8f6f-d412e376796a,Hawaii,44,Oʻahu,2/25/2024,9:15:00 AM,2024-02-25T19:15:00.000Z,Greg Young,858,South Oʻahu: Magic Island Bowls,21.282953,-157.845657,75,76,Partly_Cloudy,TRUE,outgoing,1-2 ft,20,E,=,31,,,,,,,,,,,,,,,2024-02-27T09:16:15.894Z
+4330d693-321c-4bb5-b5f1-3a65cf637a26,717504ff-6cc2-4106-a2da-7f3d3ed6a4c5,Hawaii,44,Oʻahu,1/28/2024,9:15:00 AM,2024-01-28T19:15:00.000Z,Greg Young,858,South Oʻahu: Magic Island Bowls,21.282953,-157.845657,76,75,Overcast,FALSE,outgoing,1-2 ft,15,SW,=,20,,,,,,,,,,,,,,,2024-01-30T07:17:43.063Z
+c978074e-5fd0-4a2f-b154-2091b6a49708,717504ff-6cc2-4106-a2da-7f3d3ed6a4c5,Hawaii,44,Oʻahu,1/14/2024,9:15:00 AM,2024-01-14T19:15:00.000Z,Greg Young,858,South Oʻahu: Magic Island Bowls,21.282953,-157.845657,76,70,Sunny,FALSE,outgoing,<1 ft,5,NW,=,20,,,,,,,,,,,,,,,2024-01-16T04:46:19.600Z
+0fbab988-4780-4b99-9baa-22fd1dc76303,717504ff-6cc2-4106-a2da-7f3d3ed6a4c5,Hawaii,44,Oʻahu,12/10/2023,7:50:00 AM,2023-12-10T17:50:00.000Z,Greg Young,858,South Oʻahu: Magic Island Bowls,21.282953,-157.845657,78,75,Partly_Cloudy,FALSE,outgoing,1-2 ft,10,NE,=,31,,,,,,,,,,,,,,,2023-12-12T00:21:24.381Z
+8d613ca6-a113-4403-915c-17f70c6ad851,717504ff-6cc2-4106-a2da-7f3d3ed6a4c5,Hawaii,44,Oʻahu,11/12/2023,9:15:00 AM,2023-11-12T19:15:00.000Z,Greg Young,858,South Oʻahu: Magic Island Bowls,21.282953,-157.845657,80,78,Partly_Cloudy,TRUE,outgoing,1-2 ft,20,NE,<,10,,,,,,,,,,,,,,,2023-11-14T03:29:25.436Z
+2b5e22df-d448-48be-a120-a54254088894,717504ff-6cc2-4106-a2da-7f3d3ed6a4c5,Hawaii,44,Oʻahu,10/29/2023,10:15:00 AM,2023-10-29T20:15:00.000Z,Sherine B.,858,South Oʻahu: Magic Island Bowls,21.282953,-157.845657,79,77,Partly_Cloudy,FALSE,outgoing,<1 ft,9,E,=,10,,,,,"Small, white bubbles on surface",,,,,,,,,,2023-10-31T01:33:03.059Z
+a73594c4-378d-4f44-b9d2-14bb5ccbee30,717504ff-6cc2-4106-a2da-7f3d3ed6a4c5,Hawaii,44,Oʻahu,10/15/2023,9:15:00 AM,2023-10-15T19:15:00.000Z,Gwen Young,858,South Oʻahu: Magic Island Bowls,21.282953,-157.845657,80,79,Partly_Cloudy,FALSE,outgoing,2-4 ft,5,NE,=,1396,,,,,,,,,,,,,,,2023-10-17T03:35:41.247Z
+b67ca9a5-e49f-43d3-9f31-d8e1a5544f80,Google_117941694820731963023,Hawaii,44,Oʻahu,10/1/2023,9:15:00 AM,2023-10-01T19:15:00.000Z,Christian Squire,858,South Oʻahu: Magic Island Bowls,21.282953,-157.845657,80,77,Partly_Cloudy,TRUE,outgoing,1-2 ft,15,NE,<,10,,,,,,,,,,,,,,,2023-10-03T00:32:11.423Z
+86126bcd-0148-48ff-b596-2a395729d8d8,717504ff-6cc2-4106-a2da-7f3d3ed6a4c5,Hawaii,44,Oʻahu,9/3/2023,9:15:00 AM,2023-09-03T19:15:00.000Z,Greg Young,858,South Oʻahu: Magic Island Bowls,21.282953,-157.845657,80,78,Partly_Cloudy,FALSE,outgoing,1-2 ft,10,NE,<,10,,,,,,,,,,,,,,,2023-09-04T23:33:59.172Z
+a4e2df03-193c-458b-82f9-454a6a9a21ca,717504ff-6cc2-4106-a2da-7f3d3ed6a4c5,Hawaii,44,Oʻahu,8/20/2023,9:15:00 AM,2023-08-20T19:15:00.000Z,Greg Young,858,South Oʻahu: Magic Island Bowls,21.282953,-157.845657,80,79,Partly_Cloudy,FALSE,outgoing,1-2 ft,10,NE,<,10,,,,,,,,,,,,,,,2023-08-22T00:59:12.950Z
+cdf340e4-cad1-45c6-8c33-f76761b19554,624e7b16-f050-4380-8f6f-d412e376796a,Hawaii,44,Oʻahu,8/6/2023,9:15:00 AM,2023-08-06T19:15:00.000Z,Greg Young,858,South Oʻahu: Magic Island Bowls,21.282953,-157.845657,80,79,Partly_Cloudy,FALSE,outgoing,1-2 ft,10,NE,<,10,,,,,0.01” rain 8/5/23,,,,,,,,,,2023-08-08T05:54:35.144Z
+d0b2f8e1-119b-4a0c-bf04-a1300e60906e,Google_117941694820731963023,Hawaii,44,Oʻahu,7/23/2023,9:15:00 AM,2023-07-23T19:15:00.000Z,Christian Squire,858,South Oʻahu: Magic Island Bowls,21.282953,-157.845657,80,78,Overcast,TRUE,outgoing,<1 ft,12,NE,=,20,,,,,,,,,,,,,,,2023-07-25T00:59:07.965Z
+291fe09a-a55b-4adf-8ed4-5371d3a03f6c,624e7b16-f050-4380-8f6f-d412e376796a,Hawaii,44,Oʻahu,7/9/2023,9:15:00 AM,2023-07-09T19:15:00.000Z,Greg Young,858,South Oʻahu: Magic Island Bowls,21.282953,-157.845657,79,75,Partly_Cloudy,TRUE,incoming,1-2 ft,15,NE,=,10,,,,,,,,,,,,,,,2023-07-11T08:15:42.420Z
+9efef0ad-cc98-46ca-99d7-8f1cefa102a9,624e7b16-f050-4380-8f6f-d412e376796a,Hawaii,44,Oʻahu,6/25/2023,9:30:00 AM,2023-06-25T19:30:00.000Z,Greg Young,858,South Oʻahu: Magic Island Bowls,21.282953,-157.845657,79,76,Partly_Cloudy,TRUE,incoming,1-2 ft,20,NE,=,41,,,,,,,,,,,,,,,2023-06-27T09:23:04.034Z
+fe8689fe-8ce2-4cad-af92-a45d6cd0b48f,Google_117941694820731963023,Hawaii,44,Oʻahu,6/11/2023,9:40:00 AM,2023-06-11T19:40:00.000Z,Christian Squire,858,South Oʻahu: Magic Island Bowls,21.282953,-157.845657,79,83,,FALSE,incoming,,10,E,=,10,,,,,,,,,,,,,,,2023-06-13T00:24:05.956Z
+8efbf4dd-2e58-4113-9cf5-773339e75a94,Google_117941694820731963023,Hawaii,44,Oʻahu,6/11/2023,9:40:00 AM,2023-06-11T19:40:00.000Z,Christian Squire,858,South Oʻahu: Magic Island Bowls,21.282953,-157.845657,79,83,,FALSE,incoming,,10,E,<,10,,,,,Duplicate,,,,,,,,,,2023-06-13T00:24:51.341Z
+b976bd7d-57a2-41bc-ab4e-7caec670aa8f,Google_107796448582146466088,Hawaii,44,Oʻahu,5/28/2023,9:15:00 AM,2023-05-28T19:15:00.000Z,Greg Young,858,South Oʻahu: Magic Island Bowls,21.282953,-157.845657,77,73,Partly_Cloudy,FALSE,incoming,1-2 ft,5,E,=,10,,,,,"incoming, medium tide. ",,,,,,,,,,2023-05-30T07:56:16.945Z
+976782bb-42d5-4672-a12c-835675a9ab8c,717504ff-6cc2-4106-a2da-7f3d3ed6a4c5,Hawaii,44,Oʻahu,5/14/2023,8:50:00 AM,2023-05-14T18:50:00.000Z,Dan Amato,858,South Oʻahu: Magic Island Bowls,21.282953,-157.845657,76,72,Sunny,TRUE,incoming,1-2 ft,16,,=,1785,,,,,"  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+",,,,,,,,,,2023-05-16T04:07:09.411Z
+6791322d-ecc7-4996-a8ca-5bc7ba665818,717504ff-6cc2-4106-a2da-7f3d3ed6a4c5,Hawaii,44,Oʻahu,4/30/2023,9:15:00 AM,2023-04-30T19:15:00.000Z,Greg Young,858,South Oʻahu: Magic Island Bowls,21.282953,-157.845657,78,73,Partly_Cloudy,TRUE,incoming,1-2 ft,10,NE,=,20,,,,,,,,,,,,,,,2023-05-02T00:28:56.538Z
+065dc8e2-ec34-41e8-bec6-ead89c813e08,717504ff-6cc2-4106-a2da-7f3d3ed6a4c5,Hawaii,44,Oʻahu,4/16/2023,9:15:00 AM,2023-04-16T19:15:00.000Z,Greg Young,858,South Oʻahu: Magic Island Bowls,21.282953,-157.845657,76,73,Sunny,FALSE,outgoing,<1 ft,5,NE,<,10,,,,,,,,,,,,,,,2023-04-18T01:18:21.750Z
+fe598ed0-263d-4519-90f9-e88bf2e5233d,717504ff-6cc2-4106-a2da-7f3d3ed6a4c5,Hawaii,44,Oʻahu,4/2/2023,10:20:00 AM,2023-04-02T20:20:00.000Z,Sherine B.,858,South Oʻahu: Magic Island Bowls,21.282953,-157.845657,77,74,Overcast,FALSE,incoming,<1 ft,5,E,=,20,,,,,Clear water. No Trash,,,,,,,,,,2023-04-04T00:01:06.387Z
+cba0e921-9417-4463-a5d8-5f0ff9d146c0,Google_107796448582146466088,Hawaii,44,Oʻahu,3/19/2023,9:15:00 AM,2023-03-19T19:15:00.000Z,Greg Young,858,South Oʻahu: Magic Island Bowls,21.282953,-157.845657,76,74,Partly_Cloudy,FALSE,low,1-2 ft,8,S,=,20,,,,,"outgoing, low tide.
+",,,,,,,,,,2023-03-21T08:48:58.839Z
+9a67a60a-f039-4df7-927e-ba6d90cfb1b5,717504ff-6cc2-4106-a2da-7f3d3ed6a4c5,Hawaii,44,Oʻahu,3/5/2023,10:25:00 AM,2023-03-05T20:25:00.000Z,Sherine S. Boomla,858,South Oʻahu: Magic Island Bowls,21.282953,-157.845657,77,70,Partly_Cloudy,TRUE,outgoing,1-2 ft,3,NE,<,10,,,,,,,,,,,,,,,2023-03-07T08:33:15.799Z
+0f1831dd-5eb7-41b4-9eb7-7d8d936ebbd9,717504ff-6cc2-4106-a2da-7f3d3ed6a4c5,Hawaii,44,Oʻahu,2/19/2023,8:15:00 AM,2023-02-19T18:15:00.000Z,Dan Amato,858,South Oʻahu: Magic Island Bowls,21.282953,-157.845657,76,74,Sunny,TRUE,outgoing,<1 ft,10,NE,=,464,,,,,,,,,,,,,,,2023-02-21T05:42:14.348Z
+b335b2db-9fcd-4901-8c02-641251980b4f,Google_107796448582146466088,Hawaii,44,Oʻahu,2/5/2023,9:00:00 AM,2023-02-05T19:00:00.000Z,greg Young,858,South Oʻahu: Magic Island Bowls,21.282953,-157.845657,,,Partly_Cloudy,TRUE,high,<1 ft,10,NE,=,216,,,,,"outgoing, high tide. ",,,,,,,,,,2023-02-07T07:38:31.608Z
+c8d76ced-e198-4969-8f2d-09d48789c3ab,Google_107796448582146466088,Hawaii,44,Oʻahu,1/22/2023,9:00:00 AM,2023-01-22T19:00:00.000Z,Greg Young,858,South Oʻahu: Magic Island Bowls,21.282953,-157.845657,77,72,,FALSE,incoming,<1 ft,10,NE,=,30,,,,,"Incoming, medium tide.  ",,,,,,,,,,2023-01-24T07:54:55.274Z
+2f688a5d-a400-4713-8c37-6f32b1a5f5fb,717504ff-6cc2-4106-a2da-7f3d3ed6a4c5,Hawaii,44,Oʻahu,1/8/2023,10:20:00 AM,2023-01-08T20:20:00.000Z,Christian Squire,858,South Oʻahu: Magic Island Bowls,21.282953,-157.845657,78,73,Sunny,FALSE,outgoing,1-2 ft,8,NE,=,10,,,,,,,36.1,,,,,,,,2023-01-10T02:21:19.370Z
+be7ec326-10dd-45cf-8b7c-37ee3aa7b80c,Google_107796448582146466088,Hawaii,44,Oʻahu,12/11/2022,9:25:00 AM,2022-12-11T19:25:00.000Z,Don F. ,858,South Oʻahu: Magic Island Bowls,21.282953,-157.845657,78,75,Partly_Cloudy,TRUE,outgoing,1-2 ft,6,NE,<,10,,,,,"outgoing, medium tide
+",,36.1,,,,,,,,2022-12-13T08:30:03.130Z
+b750bc90-dd58-4426-9c2c-928169c815dc,Google_107796448582146466088,Hawaii,44,Oʻahu,11/27/2022,8:30:00 AM,2022-11-27T18:30:00.000Z,"Beccy, Mahina, Ryan",858,South Oʻahu: Magic Island Bowls,21.282953,-157.845657,78,71,Partly_Cloudy,TRUE,outgoing,,6,NE,=,10,,,,,"
+outgoing, medium tide.  ",,36.1,,,,,,,,2022-11-29T07:27:21.340Z
+9aa7dc7e-31fd-4f59-be78-8e9a93622154,717504ff-6cc2-4106-a2da-7f3d3ed6a4c5,Hawaii,44,Oʻahu,11/13/2022,9:00:00 AM,2022-11-13T19:00:00.000Z,Don and Tracey,858,South Oʻahu: Magic Island Bowls,21.282953,-157.845657,80,75,Light_Rain,TRUE,high,<1 ft,5,NE,=,41.0,,,,,,,35.4,,,,,,,,2022-11-15T05:37:45.143Z
+04327c1b-2f3e-46ba-9052-4f8464229dc3,717504ff-6cc2-4106-a2da-7f3d3ed6a4c5,Hawaii,44,Oʻahu,10/30/2022,9:10:00 AM,2022-10-30T19:10:00.000Z,Don and Tracey,858,South Oʻahu: Magic Island Bowls,21.282953,-157.845657,81,80,Sunny,TRUE,high,1-2 ft,11,NE,=,52.0,,,,,,,35.9,,,,,,,,2022-11-01T01:44:25.228Z
+cadbd87d-43cd-4f07-b566-7473118672a0,717504ff-6cc2-4106-a2da-7f3d3ed6a4c5,Hawaii,44,Oʻahu,10/16/2022,8:15:00 AM,2022-10-16T18:15:00.000Z,Don and Tracey,858,South Oʻahu: Magic Island Bowls,21.282953,-157.845657,81,77,Sunny,TRUE,high,<1 ft,5,NE,=,10.0,,,,,,,35.5,,,,,,,,2022-10-18T02:45:00.772Z
+d892e078-614b-4629-8810-83e65270f2c2,717504ff-6cc2-4106-a2da-7f3d3ed6a4c5,Hawaii,44,Oʻahu,10/2/2022,8:50:00 AM,2022-10-02T18:50:00.000Z,Don and Tracy,858,South Oʻahu: Magic Island Bowls,21.282953,-157.845657,81,76,Light_Rain,TRUE,high,1-2 ft,5.7,NE,<,10.0,,,,,,,35.5,,,,,,,,2022-10-04T03:06:08.238Z
+952b6a88-0773-40a2-814a-a42efa3966c6,717504ff-6cc2-4106-a2da-7f3d3ed6a4c5,Hawaii,44,Oʻahu,9/18/2022,8:55:00 AM,2022-09-18T18:55:00.000Z,Don/Tracey F.,858,South Oʻahu: Magic Island Bowls,21.282953,-157.845657,81,78,Partly_Cloudy,FALSE,high,1-2 ft,5,,=,10,,,,,,,34.1,,,,,,,,2022-09-20T20:27:56.346Z
+5a6dd000-d061-4b48-87cf-829e5ee24169,717504ff-6cc2-4106-a2da-7f3d3ed6a4c5,Hawaii,44,Oʻahu,9/4/2022,9:10:00 AM,2022-09-04T19:10:00.000Z,Don and Tracy,858,South Oʻahu: Magic Island Bowls,21.282953,-157.845657,82,78,Partly_Cloudy,TRUE,incoming,1-2 ft,5,NE,=,63.0,,,,,,,34.8,,,,,,,,2022-09-06T02:06:37.410Z
+5fade58b-e1ac-42e0-a2e4-c39027148332,717504ff-6cc2-4106-a2da-7f3d3ed6a4c5,Hawaii,44,Oʻahu,8/21/2022,8:30:00 AM,2022-08-21T18:30:00.000Z,Don/Tracey F.,858,South Oʻahu: Magic Island Bowls,21.282953,-157.845657,82,77,Sunny,TRUE,incoming,1-2 ft,7,E,<,10,,,,,,,35.4,,,,,,,,2022-08-23T01:49:07.023Z
+bd63d63e-47f0-4d58-ab96-a7f64d9ece58,Google_107796448582146466088,Hawaii,44,Oʻahu,8/7/2022,9:10:00 AM,2022-08-07T19:10:00.000Z,Don and Tracey F.,858,South Oʻahu: Magic Island Bowls,21.282953,-157.845657,80,77,Sunny,TRUE,incoming,1-2 ft,7,NE,<,10,,,,,"incoming, medium tide",,35.1,,,,,,,,2022-08-09T07:29:04.572Z
+0207f700-651c-46b3-aeb5-32b6f4399659,717504ff-6cc2-4106-a2da-7f3d3ed6a4c5,Hawaii,44,Oʻahu,7/24/2022,9:05:00 AM,2022-07-24T19:05:00.000Z,Don and Tracey,858,South Oʻahu: Magic Island Bowls,21.282953,-157.845657,80,77,Sunny,TRUE,incoming,1-2 ft,9.2,NE,<,10,,,,,,,34.6,,,,,,,,2022-07-26T02:29:18.176Z
+448efa46-f7c7-4e89-b5d5-c96aa19a4444,717504ff-6cc2-4106-a2da-7f3d3ed6a4c5,Hawaii,44,Oʻahu,7/10/2022,9:05:00 AM,2022-07-10T19:05:00.000Z,Don/Tracey,858,South Oʻahu: Magic Island Bowls,21.282953,-157.845657,78,77,Sunny,TRUE,incoming,1-2 ft,11.5,NE,=,10,,,,,,,,,,,,,,,2022-07-12T02:49:26.195Z
+e5b0b9b3-06ed-423c-b43b-29f2e5cd75f2,717504ff-6cc2-4106-a2da-7f3d3ed6a4c5,Hawaii,44,Oʻahu,6/26/2022,8:00:00 AM,2022-06-26T18:00:00.000Z,Don/Tracey F. ,858,South Oʻahu: Magic Island Bowls,21.282953,-157.845657,78,74,Sunny,TRUE,incoming,1-2 ft,7.5,SE,=,41,,,,,,,34.9,,,,,,,,2022-06-28T01:27:24.739Z
+97e50048-f56b-4043-bdb5-d91725c1f859,717504ff-6cc2-4106-a2da-7f3d3ed6a4c5,Hawaii,44,Oʻahu,6/12/2022,9:00:00 AM,2022-06-12T19:00:00.000Z,Don F.,858,South Oʻahu: Magic Island Bowls,21.282953,-157.845657,78,75,Sunny,FALSE,incoming,<1 ft,10,E,=,10,,,,,,,34.7,,,,,,,,2022-06-14T02:58:36.788Z
+c602f010-4d64-4432-ba5e-057ead78dae3,Google_107796448582146466088,Hawaii,44,Oʻahu,5/29/2022,8:15:00 AM,2022-05-29T18:15:00.000Z,Don and Tracey F. ,858,South Oʻahu: Magic Island Bowls,21.282953,-157.845657,78,74,Overcast,TRUE,low,<1 ft,2,NE,<,10,,,,,"outgoing, low tide.   ",,35.6,,,,,,,,2022-05-31T08:16:34.192Z
+e2c42c6d-13cb-4a3f-92b0-fd058c0dcef2,Google_107796448582146466088,Hawaii,44,Oʻahu,5/15/2022,8:40:00 AM,2022-05-15T18:40:00.000Z,Don and Tracey F,858,South Oʻahu: Magic Island Bowls,21.282953,-157.845657,78,75,,TRUE,low,<1 ft,12,NE,<,10.,,,,,"Incoming, low tide.  
+
+",,34.2,,,,,,,,2022-05-17T01:16:29.388Z
+70991523-ac50-4910-b8bc-5c7c88745c6a,Google_107796448582146466088,Hawaii,44,Oʻahu,5/1/2022,9:10:00 AM,2022-05-01T19:10:00.000Z,Don and Tracey F.,858,South Oʻahu: Magic Island Bowls,21.282953,-157.845657,77,73.4,Light_Rain,TRUE,low,1-2 ft,17,NE,=,86,,,,,"incoming, low tide",,34.2,,,,,,,,2022-05-03T07:27:14.297Z
+91dbaae5-6f82-4eca-8c27-7d428eb3885f,717504ff-6cc2-4106-a2da-7f3d3ed6a4c5,Hawaii,44,Oʻahu,4/18/2022,9:00:00 AM,2022-04-18T19:00:00.000Z,Ryan Daddo,858,South Oʻahu: Magic Island Bowls,21.282953,-157.845657,78,74,Partly_Cloudy,TRUE,low,4-6 ft,22,NE,=,20,,,,,,,34.7,,,,,,,,2022-04-19T00:09:46.174Z
+e360d940-9e0f-404f-88ed-0f300fe6f2d2,Google_107796448582146466088,Hawaii,44,Oʻahu,4/3/2022,9:20:00 AM,2022-04-03T19:20:00.000Z,Don and Tracey F. ,858,South Oʻahu: Magic Island Bowls,21.282953,-157.845657,77,73,Partly_Cloudy,TRUE,low,1-2 ft,20,NE,=,10,,,,,"outgoing, low tide. ",,34.4,,,,,,,,2022-04-05T07:08:52.509Z
+b63d6e78-10a1-48d9-8c02-2b46509fc919,Google_107796448582146466088,Hawaii,44,Oʻahu,3/20/2022,8:45:00 AM,2022-03-20T18:45:00.000Z,Don and Tracey F. ,858,South Oʻahu: Magic Island Bowls,21.282953,-157.845657,77,73,Overcast,TRUE,outgoing,1-2 ft,7,NE,<,10,,,,,"outgoing, medium tide",,35.8,,,,,,,,2022-03-22T07:15:36.646Z
+d956fd20-a814-4b26-8245-475d417873e4,Google_107796448582146466088,Hawaii,44,Oʻahu,3/6/2022,9:10:00 AM,2022-03-06T19:10:00.000Z,Don and Tracey F. ,858,South Oʻahu: Magic Island Bowls,21.282953,-157.845657,77,71.6,Sunny,TRUE,low,1-2 ft,5,NE,=,10,,,,,"outgoing, low tide",,34.7,,,,,,,,2022-03-08T08:34:28.202Z
+cb8fb7d9-6f03-4024-aafd-c1b8bcc559b1,Google_107796448582146466088,Hawaii,44,Oʻahu,2/20/2022,8:30:00 AM,2022-02-20T18:30:00.000Z,Don and Tracey F. ,858,South Oʻahu: Magic Island Bowls,21.282953,-157.845657,77,71,Sunny,FALSE,outgoing,<1 ft,5,NE,=,959,,,,,"outgoing, medium tide",,36.4,,,,,,,,2022-02-22T07:19:27.092Z
+8f3a8142-4188-4d99-89b0-1f3c2e38967c,Google_107796448582146466088,Hawaii,44,Oʻahu,2/6/2022,8:50:00 AM,2022-02-06T18:50:00.000Z,Don and Tracy F. ,858,South Oʻahu: Magic Island Bowls,21.282953,-157.845657,77,73,Partly_Cloudy,TRUE,high,1-2 ft,5,NE,=,62,,,,,"outgoing, high tide",,33.8,,,,,,,,2022-02-08T07:39:57.582Z
+641d117d-b6d3-42bc-afa9-fedf94f40096,Google_107796448582146466088,Hawaii,44,Oʻahu,1/23/2022,9:15:00 AM,2022-01-23T19:15:00.000Z,Don and Tracey Fujiyama,858,South Oʻahu: Magic Island Bowls,21.282953,-157.845657,78,77,Sunny,FALSE,high,<1 ft,14,NE,=,122.,,,,,,,34.4,,,,,,,,2022-01-25T06:57:21.645Z
+aa4e8f14-f040-4559-832b-80b3bd9c6f91,Google_107796448582146466088,Hawaii,44,Oʻahu,1/9/2022,9:25:00 AM,2022-01-09T19:25:00.000Z,Don & Tracey Fujiyama,858,South Oʻahu: Magic Island Bowls,21.282953,-157.845657,76,73,Sunny,FALSE,high,1-2 ft,3,NE,=,134.,,,,,"outgoing, high tide. ",,31.2,,,,,,,,2022-01-11T07:29:02.365Z
+a5f636fc-f4bb-4076-b5f5-0dd47f74e407,Google_107796448582146466088,Hawaii,44,Oʻahu,12/26/2021,9:15:00 AM,2021-12-26T19:15:00.000Z,Don and Tracy Fujiyama,858,South Oʻahu: Magic Island Bowls,21.282953,-157.845657,75,73,Partly_Cloudy,TRUE,high,1-2 ft,,NE,=,130,,,,,"outgoing, high tide. ",,30.1,,,,,,,,2021-12-28T06:37:46.308Z
+3d987df0-ed16-4909-b7bc-5eafe00e8fb2,717504ff-6cc2-4106-a2da-7f3d3ed6a4c5,Hawaii,44,Oʻahu,12/12/2021,9:15:00 AM,2021-12-12T19:15:00.000Z,Don/Tracey,858,South Oʻahu: Magic Island Bowls,21.282953,-157.845657,77,72,Partly_Cloudy,TRUE,incoming,1-2 ft,5,NE,=,512,,,,,"Lots of trash
+-UV light broke, delay in reading results",,34.3,,,,,,,,2021-12-15T06:21:12.791Z
+4eda8e28-930a-4be9-9f21-5036739d5dae,Google_107796448582146466088,Hawaii,44,Oʻahu,11/28/2021,9:10:00 AM,2021-11-28T19:10:00.000Z,Don and Tracey F.,858,South Oʻahu: Magic Island Bowls,21.282953,-157.845657,75,73,Partly_Cloudy,TRUE,high,<1 ft,6,NE,=,10,,,,,"incoming, high tide",,32.0,,,,,,,,2021-11-30T07:48:00.205Z
+7d3a6830-3fa5-4bc6-a0d3-200606f29b96,Google_107796448582146466088,Hawaii,44,Oʻahu,11/14/2021,9:10:00 AM,2021-11-14T19:10:00.000Z,"Don, Tracey Fujiyama",858,South Oʻahu: Magic Island Bowls,21.282953,-157.845657,79,75,Overcast,TRUE,incoming,<1 ft,5,NE,=,41,,,,,"incoming, medium tide",,33.2,,,,,,,,2021-11-17T06:51:17.855Z
+53c5c94d-b010-48f8-af0f-859bb3529faa,Google_107796448582146466088,Hawaii,44,Oʻahu,10/17/2021,8:50:00 AM,2021-10-17T18:50:00.000Z,Greg Young,858,South Oʻahu: Magic Island Bowls,21.282953,-157.845657,79,75,Partly_Cloudy,TRUE,low,1-2 ft,20,NE,=,119.,,,,,"incoming, low tide",,31.9,,,,,,,,2021-10-21T07:44:50.728Z
+df8e1961-1051-473c-a38f-b4496d391198,Google_107796448582146466088,Hawaii,44,Oʻahu,10/3/2021,9:15:00 AM,2021-10-03T19:15:00.000Z,"Don, Tracey, Eli Fujiyama",858,South Oʻahu: Magic Island Bowls,21.282953,-157.845657,79,82,Partly_Cloudy,TRUE,incoming,<1 ft,6,NE,<,10,,,,,"Incoming, medium tide",,32.4,,,,,,,,2021-10-06T09:26:13.781Z
+35334af4-55c6-40cd-b21f-ccba862e78cf,717504ff-6cc2-4106-a2da-7f3d3ed6a4c5,Hawaii,44,Oʻahu,10/3/2021,9:00:00 AM,2021-10-03T19:00:00.000Z,Don and Tracy Fujiyama,858,South Oʻahu: Magic Island Bowls,21.282953,-157.845657,79,82,Partly_Cloudy,TRUE,incoming,<1 ft,7,NE,<,10,,,,,,,32.4,,,,,,,,2022-02-17T22:24:47.156Z
+081fa080-9e79-43d3-b6e0-383e1d6c759e,Google_107796448582146466088,Hawaii,44,Oʻahu,9/19/2021,10:05:00 AM,2021-09-19T20:05:00.000Z,"Eli, Don, and Tracey F. ",858,South Oʻahu: Magic Island Bowls,21.282953,-157.845657,80,77,Partly_Cloudy,TRUE,low,1-2 ft,10,NE,=,20.,,,,,"incoming, low tide. ",,32.0,,,,,,,,2021-09-22T07:06:39.931Z
+97ff6a2f-e63c-443a-aa55-ba74813ae809,Google_107796448582146466088,Hawaii,44,Oʻahu,9/5/2021,9:15:00 PM,2021-09-06T07:15:00.000Z,Don and Tracy F.,858,South Oʻahu: Magic Island Bowls,21.282953,-157.845657,78,76,Sunny,FALSE,low,1-2 ft,10,NE,=,20.,,,,,"incoming, low tide",,33.2,,,,,,,,2021-09-08T13:39:32.539Z
+25b8d471-785c-434c-9933-2791d980c942,Google_107796448582146466088,Hawaii,44,Oʻahu,8/22/2021,8:35:00 AM,2021-08-22T18:35:00.000Z,Don and Tracey F. ,858,South Oʻahu: Magic Island Bowls,21.282953,-157.845657,80,76,Partly_Cloudy,TRUE,low,<1 ft,5,NE,=,10.,,,,,"outgoing, low tide",,34.0,,,,,,,,2021-08-24T07:44:11.014Z
+7be4e313-6726-4e58-8655-41750b358b9f,Google_107796448582146466088,Hawaii,44,Oʻahu,8/8/2021,8:35:00 AM,2021-08-08T18:35:00.000Z,Don and Tracy F. ,858,South Oʻahu: Magic Island Bowls,21.282953,-157.845657,79,75,Partly_Cloudy,TRUE,low,1-2 ft,2,E,<,10,,,,,"outgoing, low tide",,32.9,,,,,,,,2021-08-10T08:04:57.084Z
+e48559d2-1c16-467e-a02d-dcf4c0331c5c,Google_107796448582146466088,Hawaii,44,Oʻahu,7/25/2021,9:00:00 AM,2021-07-25T19:00:00.000Z,Don and Tracy F. ,858,South Oʻahu: Magic Island Bowls,21.282953,-157.845657,79,78,Sunny,TRUE,outgoing,1-2 ft,20,NE,=,10.,,,,,"outgoing, low tide",,33.1,,,,,,,,2021-07-27T08:02:02.080Z
+00b88b6f-b2e5-4841-8687-87448ebf1fff,Google_107796448582146466088,Hawaii,44,Oʻahu,7/11/2021,9:05:00 AM,2021-07-11T19:05:00.000Z,Don and Tracy F. ,858,South Oʻahu: Magic Island Bowls,21.282953,-157.845657,79,75,Sunny,FALSE,outgoing,1-2 ft,10,E,=,203.,,,,,"outgoing, medium tide",,32.3,,,,,,,,2021-07-14T06:00:16.546Z
+a21df94d-a0aa-41f1-b5f2-caf47bb2545b,Google_107796448582146466088,Hawaii,44,Oʻahu,6/27/2021,8:50:00 AM,2021-06-27T18:50:00.000Z,Don and Tracy,858,South Oʻahu: Magic Island Bowls,21.282953,-157.845657,79,75,Sunny,TRUE,outgoing,1-2 ft,5,E,<,10,,,,,"outgoing, medium tide",,32.8,,,,,,,,2021-07-10T09:08:33.666Z
+c713225a-13a7-4918-8559-91dd8eee1cb7,Google_107796448582146466088,Hawaii,44,Oʻahu,6/13/2021,8:50:00 AM,2021-06-13T18:50:00.000Z,Don and Tracy ?,858,South Oʻahu: Magic Island Bowls,21.282953,-157.845657,78,74,Partly_Cloudy,TRUE,outgoing,1-2 ft,5,NE,<,10,,,,,,,32.7,,,,,,,,2021-06-16T09:19:25.320Z
+566b3774-42a9-4aac-af6f-ed9e2c10bcdb,Google_114007869303751566145,Hawaii,44,Oʻahu,5/30/2021,9:05:00 AM,2021-05-30T19:05:00.000Z,Don and Tracy,858,South Oʻahu: Magic Island Bowls,21.282953,-157.845657,78,74,Sunny,FALSE,,1-2 ft,2,,=,20,,,,,,,,,,,,,,,2021-06-01T16:33:12.580Z
+448088ab-7731-44ad-b0b7-c93ae338aac5,Google_114007869303751566145,Hawaii,44,Oʻahu,5/16/2021,8:47:00 AM,2021-05-16T18:47:00.000Z,D and T.,858,South Oʻahu: Magic Island Bowls,21.282953,-157.845657,77,78,Partly_Cloudy,TRUE,outgoing,1-2 ft,15,E,=,10,,,,,medium tide,,,,,,,,,,2021-05-18T16:41:07.019Z
+aaaf2aab-2ae4-42ca-8e92-4284d3a1fdee,Google_114007869303751566145,Hawaii,44,Oʻahu,5/2/2021,10:17:00 AM,2021-05-02T20:17:00.000Z,Sherine,858,South Oʻahu: Magic Island Bowls,21.282953,-157.845657,77,75,Partly_Cloudy,FALSE,incoming,1-2 ft,23,NE,<,10,,,,,low tide.  Clear water along the coast,,,,,,,,,,2021-05-04T05:24:33.110Z
+45a92ee2-89cb-4d27-bb9b-12f07772d4d0,Google_114007869303751566145,Hawaii,44,Oʻahu,4/18/2021,8:50:00 AM,2021-04-18T18:50:00.000Z,D. ,858,South Oʻahu: Magic Island Bowls,21.282953,-157.845657,76,70,Sunny,TRUE,outgoing,<1 ft,9,E,=,10,,,,,,,,,,,,,,,2021-04-20T05:38:37.036Z
+e62dc095-b35f-48d9-84aa-372293b63406,Google_114007869303751566145,Hawaii,44,Oʻahu,4/4/2021,9:00:00 AM,2021-04-04T19:00:00.000Z,"Tracy, Don",858,South Oʻahu: Magic Island Bowls,21.282953,-157.845657,78,71,Light_Rain,TRUE,incoming,1-2 ft,5,NE,=,31,,,,,,,,,,,,,,,2021-04-06T04:09:18.993Z
+60eb0250-c7cb-4612-9821-e1839e375860,Google_114007869303751566145,Hawaii,44,Oʻahu,3/21/2021,9:10:00 AM,2021-03-21T19:10:00.000Z,Don and Tracy,858,South Oʻahu: Magic Island Bowls,21.282953,-157.845657,76,76,,TRUE,incoming,1-2 ft,17,E,=,473,,,,,,,,,,,,,,,2021-03-23T06:21:12.781Z
+911d7a53-d40c-44c2-8152-7f3c69017968,Google_114007869303751566145,Hawaii,44,Oʻahu,3/7/2021,9:15:00 AM,2021-03-07T19:15:00.000Z,"D, T and E",858,South Oʻahu: Magic Island Bowls,21.282953,-157.845657,76,71,Sunny,TRUE,incoming,<1 ft,5,E,=,546,,,,,Low tide,,,,,,,,,,2021-03-09T06:15:40.631Z
+4ec7db67-878a-429a-950f-7acbf5b91d10,Google_114007869303751566145,Hawaii,44,Oʻahu,2/21/2021,8:50:00 AM,2021-02-21T18:50:00.000Z,Dylan W.,858,South Oʻahu: Magic Island Bowls,21.282953,-157.845657,78,76,Partly_Cloudy,TRUE,incoming,2-4 ft,8,E,=,41,,,,,,,,,,,,,,,2021-02-23T06:40:08.667Z
+17ac33eb-568c-425a-b988-6de8b2922bac,Google_114007869303751566145,Hawaii,44,Oʻahu,2/7/2021,8:47:00 AM,2021-02-07T18:47:00.000Z,D. and T. ,858,South Oʻahu: Magic Island Bowls,21.282953,-157.845657,77,67,Sunny,TRUE,outgoing,1-2 ft,,,=,86,,,,,,,,,,,,,,,2021-02-09T05:35:42.660Z
+1a6ac40c-5e3b-47bd-b035-2eb4b2b846e3,us-west-2:fcadde7c-175e-4806-9e6d-3412e9dd865f,Hawaii,44,Oʻahu,1/24/2021,8:25:00 AM,2021-01-24T18:25:00.000Z,Oahu BWTF,858,South Oʻahu: Magic Island Bowls,21.282953,-157.845657,78,73,Sunny,TRUE,outgoing,1-2 ft,,E,=,185,,,,,,,,,,,,,,,2021-01-26T04:08:46.667Z
+3c90ab3b-1107-4bb7-9556-b21de380c82e,us-west-2:fcadde7c-175e-4806-9e6d-3412e9dd865f,Hawaii,44,Oʻahu,1/10/2021,9:03:00 AM,2021-01-10T19:03:00.000Z,Oahu BWTF,858,South Oʻahu: Magic Island Bowls,21.282953,-157.845657,78,72,Sunny,,outgoing,1-2 ft,,E,=,275,,,,,,,,,,,,,,,2021-01-12T01:47:40.982Z
+cacc96e7-d9ca-4616-975b-9ef34e1536bf,us-west-2:fcadde7c-175e-4806-9e6d-3412e9dd865f,Hawaii,44,Oʻahu,12/27/2020,8:33:00 AM,2020-12-27T18:33:00.000Z,Oahu BWTF,858,South Oʻahu: Magic Island Bowls,21.282953,-157.845657,79,75,Partly_Cloudy,TRUE,low,<1 ft,,E,=,1223,,,,,salinity 29.4; outgoing tide,,,,,,,,,,2020-12-29T05:49:18.098Z
+345619a8-54d6-4a0d-9f44-4c0bf57e7da8,us-west-2:fcadde7c-175e-4806-9e6d-3412e9dd865f,Hawaii,44,Oʻahu,12/13/2020,8:30:00 AM,2020-12-13T18:30:00.000Z,Oahu BWTF,858,South Oʻahu: Magic Island Bowls,21.282953,-157.845657,79,75,Sunny,TRUE,outgoing,<1 ft,,,=,41,,,,,,,,,,,,,,,2020-12-15T04:50:35.885Z
+747f9912-5ea9-4bd5-9912-679a80bef78b,us-west-2:fcadde7c-175e-4806-9e6d-3412e9dd865f,Hawaii,44,Oʻahu,11/29/2020,9:05:00 AM,2020-11-29T19:05:00.000Z,Oahu BWTF,858,South Oʻahu: Magic Island Bowls,21.282953,-157.845657,79,75,Light_Rain,TRUE,outgoing,<1 ft,5,E,,31,,,,,negative control  for sample set on 11/29/20 showed 1 positive large well = to 10cfu/100mL,,,,,,,,,,2020-12-01T03:55:34.086Z
+b0a03cfc-9b3e-4fcd-b493-568db009bdff,us-west-2:fcadde7c-175e-4806-9e6d-3412e9dd865f,Hawaii,44,Oʻahu,11/15/2020,8:30:00 AM,2020-11-15T18:30:00.000Z,Oahu BWTF,858,South Oʻahu: Magic Island Bowls,21.282953,-157.845657,81,77,Partly_Cloudy,TRUE,outgoing,<1 ft,,E,=,41,,,,,,,,,,,,,,,2020-11-17T04:33:35.514Z
+8063a275-51d8-499c-acda-6db0d8d047bc,us-west-2:fcadde7c-175e-4806-9e6d-3412e9dd865f,Hawaii,44,Oʻahu,11/1/2020,8:45:00 AM,2020-11-01T18:45:00.000Z,Oahu BWTF,858,South Oʻahu: Magic Island Bowls,21.282953,-157.845657,82,75,Sunny,TRUE,outgoing,<1 ft,,E,=,62,,,,,,,,,,,,,,,2020-11-03T03:02:08.960Z
+f4cf756e-b626-470b-b9fd-d42f06f6f952,us-west-2:fcadde7c-175e-4806-9e6d-3412e9dd865f,Hawaii,44,Oʻahu,10/18/2020,8:35:00 AM,2020-10-18T18:35:00.000Z,Oahu BWTF,858,South Oʻahu: Magic Island Bowls,21.282953,-157.845657,82,79,Partly_Cloudy,TRUE,outgoing,<1 ft,,SW,=,10,,,,,,,,,,,,,,,2020-10-20T04:42:34.676Z
+10ca24a8-4770-464c-84ff-89638d8e0065,us-west-2:fcadde7c-175e-4806-9e6d-3412e9dd865f,Hawaii,44,Oʻahu,10/4/2020,8:45:00 AM,2020-10-04T18:45:00.000Z,Oahu BWTF,858,South Oʻahu: Magic Island Bowls,21.282953,-157.845657,81,79,Partly_Cloudy,TRUE,outgoing,<1 ft,,NE,=,86,,,,,,,,,,,,,,,2020-10-06T05:35:55.963Z
+79e60d2b-7584-442a-98e1-a8ba47ac6ade,us-west-2:fcadde7c-175e-4806-9e6d-3412e9dd865f,Hawaii,44,Oʻahu,9/20/2020,8:44:00 AM,2020-09-20T18:44:00.000Z,Oahu BWTF,858,South Oʻahu: Magic Island Bowls,21.282953,-157.845657,81,78,Partly_Cloudy,TRUE,outgoing,<1 ft,,NE,<,10,,,,,,,,,,,,,,,2020-09-22T05:21:08.427Z
+fdc41fb5-7bef-4f15-8eae-2345927e5267,us-west-2:fcadde7c-175e-4806-9e6d-3412e9dd865f,Hawaii,44,Oʻahu,9/6/2020,8:56:00 AM,2020-09-06T18:56:00.000Z,Oahu BWTF,858,South Oʻahu: Magic Island Bowls,21.282953,-157.845657,81,76,Partly_Cloudy,TRUE,outgoing,<1 ft,,E,<,10,,,,,,,,,,,,,,,2020-09-08T16:24:02.875Z
+fce91c11-280d-4525-aff4-0b7c1f3a63af,us-west-2:fcadde7c-175e-4806-9e6d-3412e9dd865f,Hawaii,44,Oʻahu,8/23/2020,9:15:00 AM,2020-08-23T19:15:00.000Z,Oahu BWTF,858,South Oʻahu: Magic Island Bowls,21.282953,-157.845657,,83,Partly_Cloudy,,high,<1 ft,,E,<,10,,,,,Outgoing,,,,,,,,,,2020-08-25T06:37:03.694Z
+398aed53-ae35-4cf9-8977-6a9eb1a4cc3e,us-west-2:fcadde7c-175e-4806-9e6d-3412e9dd865f,Hawaii,44,Oʻahu,8/9/2020,9:05:00 AM,2020-08-09T19:05:00.000Z,Oahu BWTF,858,South Oʻahu: Magic Island Bowls,21.282953,-157.845657,,75,Partly_Cloudy,TRUE,high,<1 ft,,NE,=,10,,,,,high outgoing tide,,,,,,,,,,2020-08-11T06:36:07.436Z
+810a9884-f2de-4278-93bd-44bd58bb2a78,us-west-2:fcadde7c-175e-4806-9e6d-3412e9dd865f,Hawaii,44,Oʻahu,7/12/2020,8:25:00 AM,2020-07-12T18:25:00.000Z,Oahu BWTF,858,South Oʻahu: Magic Island Bowls,21.282953,-157.845657,,75,Partly_Cloudy,,incoming,<1 ft,10,E,,1031,,,,,,,,,,,,,,,2020-07-15T04:08:41.970Z
+c6a83ba3-bb1f-40df-898b-3a683e61b621,us-west-2:fcadde7c-175e-4806-9e6d-3412e9dd865f,Hawaii,44,Oʻahu,3/15/2020,9:02:00 AM,2020-03-15T19:02:00.000Z,Oahu BWTF,858,South Oʻahu: Magic Island Bowls,21.282953,-157.845657,,,Partly_Cloudy,TRUE,incoming,<1 ft,,E,=,10,,,,,,,,,,,,,,,2020-03-17T19:56:21.778Z
+553114949,Import from legacy BWTF database,Hawaii,44,Oʻahu,3/1/2020,8:30:00 AM,2020-03-01T18:30:00Z,Don and Tracy,858,South Oʻahu: Magic Island Bowls,21.282953,-157.845657,,75,Partly_Cloudy,TRUE,medium,0.5 ft,,,=,336,,,,,"8:30am
+outgoing tide
+moderate NE",,,,,,,,,,2020-03-09T18:48:49.000Z
+553114572,Import from legacy BWTF database,Hawaii,44,Oʻahu,2/16/2020,7:30:00 AM,2020-02-16T17:30:00Z,Don and Tracy,858,South Oʻahu: Magic Island Bowls,21.282953,-157.845657,,65,Partly_Cloudy,TRUE,medium,0.5-1 ft,,,=,10,,,,,"7:45 am
+incoming tide
+light E Wind",,,,,,,,,,2020-03-09T18:48:46.000Z
+553113940,Import from legacy BWTF database,Hawaii,44,Oʻahu,1/19/2020,8:30:00 AM,2020-01-19T18:30:00Z,Don and Tracy,858,South Oʻahu: Magic Island Bowls,21.282953,-157.845657,,65,Sunny,TRUE,medium,0.5-1 ft,,,=,30,,,,,"8:55am
+incoming tide
+light E wind
+overflow +",,,,,,,,,,2020-03-09T18:48:43.000Z
+553112861,Import from legacy BWTF database,Hawaii,44,Oʻahu,12/1/2019,10:30:00 AM,2019-12-01T20:30:00Z,Don and Tracy F.,858,South Oʻahu: Magic Island Bowls,21.282953,-157.845657,,75,Light_Rain,TRUE,high,1-2 ft,,,=,158,,,,,"10:05am
+outgoing tide
+moderate east wind
+overflow+",,,,,,,,,,2020-03-09T18:48:36.000Z
+553112503,Import from legacy BWTF database,Hawaii,44,Oʻahu,11/17/2019,8:30:00 AM,2019-11-17T18:30:00Z,Don and Tracy F. ,858,South Oʻahu: Magic Island Bowls,21.282953,-157.845657,,85,Partly_Cloudy,TRUE,high,0.5 ft,,,<,10,,,,,"9:00am
+outgoing tide
+calm, NE wind",,,,,,,,,,2020-03-09T18:48:34.000Z
+553111204,Import from legacy BWTF database,Hawaii,44,Oʻahu,9/29/2019,9:30:00 AM,2019-09-29T19:30:00Z,D. and T. Fujiyana,858,South Oʻahu: Magic Island Bowls,21.282953,-157.845657,,85,Partly_Cloudy,TRUE,low,0.5 ft,,,=,31,,,,,"9:35am
+outgoing tide
+light e wind",,,,,,,,,,2020-03-09T18:48:26.000Z
+553110452,Import from legacy BWTF database,Hawaii,44,Oʻahu,8/25/2019,10:30:00 AM,2019-08-25T20:30:00Z,Marc and Jess Elias,858,South Oʻahu: Magic Island Bowls,21.282953,-157.845657,,85,Partly_Cloudy,FALSE,high,1-2 ft,,,=,10,,,,,"High tide, incoming, ",,,,,,,,,,2020-03-09T18:47:11.000Z
+553110286,Import from legacy BWTF database,Hawaii,44,Oʻahu,8/11/2019,9:30:00 AM,2019-08-11T19:30:00Z,Marc and Jess Elias,858,South Oʻahu: Magic Island Bowls,21.282953,-157.845657,,85,Sunny,FALSE,medium,1-2 ft,,,<,10,,,,,"Bottle broke, had to go back for a new one - later, 10:45 ish. Incoming tide. Light NE wind",,,,,,,,,,2020-03-09T18:47:10.000Z
+553110999,Import from legacy BWTF database,Hawaii,44,Oʻahu,8/11/2019,8:30:00 AM,2019-08-11T18:30:00Z,Elias,858,South Oʻahu: Magic Island Bowls,21.282953,-157.845657,,85,Sunny,FALSE,medium,1-2 ft,,,<,10,,,,,"8:45
+incoming tide
+light wind",,,,,,,,,,2020-03-09T18:48:25.000Z
+553109101,Import from legacy BWTF database,Hawaii,44,Oʻahu,6/16/2019,7:30:00 AM,2019-06-16T17:30:00Z,Don Fujiyami and Tracy,858,South Oʻahu: Magic Island Bowls,21.282953,-157.845657,,,Sunny,FALSE,low,2-3 ft,,,<,10,,,,,"7:20, incoming, light E wind",,,,,,,,,,2020-03-09T18:47:04.000Z
+553108726,Import from legacy BWTF database,Hawaii,44,Oʻahu,5/26/2019,8:30:00 AM,2019-05-26T18:30:00Z,Don and Tracy,858,South Oʻahu: Magic Island Bowls,21.282953,-157.845657,,,Partly_Cloudy,FALSE,low,2-3 ft,,,<,10,,,,,"Incoming, 8:21",,,,,,,,,,2020-03-09T18:47:01.000Z
+553108062,Import from legacy BWTF database,Hawaii,44,Oʻahu,4/28/2019,7:30:00 AM,2019-04-28T17:30:00Z,Don Fujiyami and Tracy,858,South Oʻahu: Magic Island Bowls,21.282953,-157.845657,,,Overcast,FALSE,low,1-2 ft,,,=,31,,,,,"Incoming tide, calm wind, 7:40am",,,,,,,,,,2020-03-09T18:46:58.000Z
+553107794,Import from legacy BWTF database,Hawaii,44,Oʻahu,4/7/2019,7:30:00 AM,2019-04-07T17:30:00Z,Don Fujiyami and Tracy,858,South Oʻahu: Magic Island Bowls,21.282953,-157.845657,,,Sunny,FALSE,medium,0.5 ft,,,=,10,,,,,"7:40am, outgoing tide, calm wind",,,,,,,,,,2020-03-09T18:46:56.000Z
+553107027,Import from legacy BWTF database,Hawaii,44,Oʻahu,3/10/2019,8:30:00 AM,2019-03-10T18:30:00Z,Don and Tracy,858,South Oʻahu: Magic Island Bowls,21.282953,-157.845657,73,65,Partly_Cloudy,TRUE,high,3-4 ft,,,<,10,,,,,"8:00am, outgoing tide, strong E winds.",,,,,,,,,,2020-03-09T18:46:52.000Z
+553106768,Import from legacy BWTF database,Hawaii,44,Oʻahu,2/24/2019,8:30:00 AM,2019-02-24T18:30:00Z,Don Fujiyami,858,South Oʻahu: Magic Island Bowls,21.282953,-157.845657,73,75,Sunny,FALSE,high,1-2 ft,,,<,10,,,,,"8:51am, tide outgoing, wind calm E flow",,,,,,,,,,2020-03-09T18:46:50.000Z
+553106737,Import from legacy BWTF database,Hawaii,44,Oʻahu,2/10/2019,7:30:00 AM,2019-02-10T17:30:00Z,Don Fujiyami,858,South Oʻahu: Magic Island Bowls,21.282953,-157.845657,73,65,Light_Rain,TRUE,high,3-4 ft,,,=,10,,,,,"7:50am, tide outgoing, Strong NW wind",,,,,,,,,,2020-03-09T18:46:50.000Z
+553106720,Import from legacy BWTF database,Hawaii,44,Oʻahu,1/27/2019,8:30:00 AM,2019-01-27T18:30:00Z,Don Fujiyami,858,South Oʻahu: Magic Island Bowls,21.282953,-157.845657,,75,Partly_Cloudy,FALSE,high,1-2 ft,,,=,10,,,,,"8:00, incoming tide, east winds light.",,,,,,,,,,2020-03-09T18:46:50.000Z
